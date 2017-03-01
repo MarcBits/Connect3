@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Connect 3</string>
+    <string name="reset_text">Play Again</string>
+    <string name="mode_text">vs Human</string>
+</resources>
